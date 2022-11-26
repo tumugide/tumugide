@@ -2,7 +2,7 @@
 - 👀 I’m interested exclusively in web development and mobile app development
 - 🌱 I’m currently learning vue to ease my job
 - 💞️ I’m looking to collaborate on an open-source
-- 📫 How to reach me: check my twitter at https://twitter.com/tumugide
+- 📫 Check my twitter at https://twitter.com/tumugide
 
 <!---
 tumugide/tumugide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
