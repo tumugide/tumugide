@@ -1,4 +1,4 @@
-# Hi there, I'm tumugide! 👋
+# Hi there, I'm Egide! 👋
 
 <div align="center">
   
